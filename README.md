@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=92E9CF&height=250&section=header&text=Hello%20World!&desc=I'm%20AyoungKim!&fontSize=55&fontAlignY=45&descSize=30&fontColor=584444)
-
+<!-- 인트로 -->
 <h2 align="center">🌱<br/>Introduction</h2>
 <br/>
 <p align="center">
@@ -12,7 +12,20 @@
   제자리에서 머물지 않고,<br/>
   항상 성장하고 나아가는 개발자가 되고자 합니다!
 </h4>
-
+<!-- 링크 -->
+<h2 align="center">💬<br/>Contact Me</h2>
+<br/>
+<div align="center">
+  <a href="https://kimaydev.notion.site/kimaydev/FE-7a53f9f631f146c88c39413cd175a9d0" target="_blank">
+    <img src="https://img.shields.io/badge/AyoungKim's Notion-fff?style=flat&logo=Notion&logoColor=000"/>
+  </a>
+  <a href="mailto:kimaydev@gmail.com">
+    <img src="https://img.shields.io/badge/kimaydev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/>
+  </a>
+  <a href="https://open.kakao.com/o/sAhCWDrf" target="_blank">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=000"/>
+  </a>
+</div>
 <!--
 **kimaydev/kimaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
