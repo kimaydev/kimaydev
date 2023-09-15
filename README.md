@@ -3,7 +3,7 @@
 <!-- 인트로 -->
 <h2 align="center">🌱<br/>Introduction</h2>
 <br/>
-<p align="center">
+<h3 align="center">
   Front-End Developer, Web Publisher
 </p>
 <h4 align="center">
