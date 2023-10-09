@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=92E9CF&height=250&section=header&text=Hello%20World!&desc=I'm%20AyoungKim!&fontSize=55&fontAlignY=45&descSize=30&fontColor=584444)
+![header](https://capsule-render.vercel.app/api?type=waving&color=92E9CF&height=250&section=header&text=Hi!%20I'm%20AyoungKim👋&fontSize=55&fontAlignY=45&descSize=30&fontColor=584444)
 <!-- 인트로 -->
 <h2 align="center">🌱<br/>Introduction</h2>
 <br/>
