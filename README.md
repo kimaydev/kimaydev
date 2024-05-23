@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a8dfd6&height=20&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a8dfd6&height=50&section=header" />
 
 <!-- 헤더 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00A9AD&repeat=false&random=false&width=435&height=30&center=true&vCenter=true&lines=Front-End+Engineer%2C+Ayoung+Kim" alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a8dfd6&height=20&section=header" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f1faf8&height=3&section=header" />
 
 <!-- 링크 -->
 #### 💬 Contact Me
@@ -58,7 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimaydev&layout=compact">  
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=b7e4dd&height=20&section=header" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b7e4dd&height=50&section=header" />
 
 <!--
 **kimaydev/kimaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
