@@ -1,78 +1,57 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=92E9CF&height=250&section=header&text=Hi!%20I'm%20AyoungKim👋&fontSize=55&fontAlignY=45&descSize=30&fontColor=584444)
-<!-- 인트로 -->
-<h2 align="center">🌱<br/>Introduction</h2>
-<br/>
-<h3 align="center">
-  Front-End Developer, Web Publisher
-</p>
-<h4 align="center">
-  안녕하세요!<br/>
-  성장하는 Front-End 김아영입니다.<br/>
-  제자리에서 머물지 않고,<br/>
-  항상 성장하고 나아가는 개발자가 되고자 합니다!
-</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00A9AD&repeat=false&random=false&width=435&height=30&lines=Front-End+Engineer%2C+Ayoung+Kim" alt="Typing SVG" /></a>
 <!-- 링크 -->
-<h2 align="center">💬<br/>Contact Me</h2>
-<br/>
-<div align="center">
-  <a href="https://kimaydev.notion.site/kimaydev/FE-7a53f9f631f146c88c39413cd175a9d0" target="_blank">
-    <img src="https://img.shields.io/badge/AyoungKim's Notion-fff?style=flat&logo=Notion&logoColor=000"/>
-  </a>
-  <a href="mailto:kimaydev@gmail.com">
-    <img src="https://img.shields.io/badge/kimaydev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/>
-  </a>
-  <a href="https://open.kakao.com/o/sAhCWDrf" target="_blank">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=000"/>
-  </a>
-</div>
+#### 💬 Contact Me
+<a href="https://kimaydev.notion.site/kimaydev/FE-7a53f9f631f146c88c39413cd175a9d0" target="_blank">  
+  <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
+<a href="mailto:kimaydev@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/>
+</a>
+<a href="https://open.kakao.com/o/sAhCWDrf" target="_blank">
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=000"/>
+</a>
+
 <!-- 기술스택 -->
-<h2 align="center">💻<br/>Front-end Tech Stack</h2>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=fff"/>
+#### 💻 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
   <br/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff"/>  
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=redux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat&logo=reduxsaga&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff"/>
   <br/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/zustand-a56953?style=for-the-badge"/>
 </div>
-<h2 align="center">🛠<br/>Tools</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Photoshop-001d34?style=flat&logo=adobephotoshop&logoColor=2fa3f7"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeIllustrator&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobexd&logoColor=fff"/>  
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff"/>
+
+#### 🛠 Tools
+<div>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=fff"/>  
-  <br/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff"/>  
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Indesign-FF3366?style=flat&logo=adobeindesign&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 </div>
-<br/>
+
+***
+
 <!-- 프로그레스바 -->
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=kimaydev&theme=tokyonight-duo&card_width=600&border=E4E4E4&stroke=E4E4E4" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimaydev&layout=compact">  
 </div>
+
 
 <!--
 **kimaydev/kimaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
